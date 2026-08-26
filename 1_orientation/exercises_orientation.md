@@ -67,5 +67,5 @@ Frank.
 | Course                | Course ID   |              |
 | Teacher               | Teacher ID  |              |
 | Student               | Student ID  |              |
-| Course grade          | Course ID+CourseIplementation number + Student ID | Course ID & Student ID |
-| Course implementation | Course ID0CourseImplementation number | Teacher ID |
+| Course grade          | Course ID+Course Implementation number + Student ID | Course ID & Student ID |
+| Course implementation | Course ID+Course Implementation number | Course ID & Teacher ID |
